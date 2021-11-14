@@ -1,0 +1,30 @@
+body{
+  margin-top: 7rem;
+  text-align: center;
+  background-color: #DA7F8F;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+}
+
+h1{
+  color: #FAF3F3;
+  font-size: 3rem;
+}
+
+input{
+  height: 35px;
+  margin-bottom: 20px;
+  margin-right: 5px;
+  background-color: #E1E5EA;
+  border: 0;
+  border-radius: 10px;
+  padding-left: 10px;
+}
+
+section{
+  padding-top: 2.3rem;
+}
+
+label{
+  color: #FAF3F3;
+}
